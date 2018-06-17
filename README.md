@@ -21,12 +21,18 @@ This must return you version of git . Install git
 
 Clone the repository using below command 
 `
-git clone 
+git clone https://github.com/siddhirajpantoji/CucumberTestingNode.git
 `
+Go to the Directory 
 `
 cd CucumberTestingNode
 `
+
+Type below to install Dependencies 
 `
 npm install
 `
-
+Run Below command to run test cases  
+`
+npm run test
+`
